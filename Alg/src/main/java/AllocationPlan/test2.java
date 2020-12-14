@@ -1,4 +1,5 @@
 package AllocationPlan;
 
 public class test2 {
+    public int wahaha;
 }
