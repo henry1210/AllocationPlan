@@ -7,4 +7,5 @@ public class Commodity {
     public int Stock;
     public int Capacity;
 
+    public int replenishment;
 }
